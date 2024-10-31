@@ -15,14 +15,11 @@ How to Run
 
     Clone the Repository:
 
-    sh
+    git clone git@github.com:OkuhleMwelase/rock_paper_scissors.git
+    cd rock_paper_scissors
 
-git clone git@github.com:YourUsername/Rock-Paper-Scissors-Python.git
-cd Rock-Paper-Scissors-Python
 
 Run the Script:
-
-sh
 
     python rock_paper_scissors.py
 
@@ -34,8 +31,6 @@ How to Play
     Type quit to exit the game.
 
 Example Gameplay
-
-c
 
 Welcome to Rock, Paper, Scissors!
 Enter rock, paper, or scissors (or 'quit' to exit): rock
