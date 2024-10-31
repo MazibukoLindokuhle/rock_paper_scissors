@@ -13,7 +13,7 @@ Requirements
 
 How to Run
 
-    Clone the Repository:
+Clone the Repository:
 
     git clone git@github.com:OkuhleMwelase/rock_paper_scissors.git
     cd rock_paper_scissors
